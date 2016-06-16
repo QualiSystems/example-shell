@@ -1,0 +1,1 @@
+Example shell to use as a reference for shell development learning
